@@ -43,7 +43,7 @@
     - 음성/영상 인식 (openSmile, OpenCV, TFLite)  
     - Fusion 로직을 통한 상황 판단 및 경고 제공  
   - 운전자 인터페이스(UI) 및 경고 알림 기능 포함
-  - 
+    
 ---
 
 ## ✨ 차별성
@@ -64,10 +64,10 @@
 ---
 
 ## 👥 팀 구성
-- **이진성** (팀장) – PM, 데이터 수집부 펌웨어, 하드웨어 설계  
-- **박소윤** – 코드 통합 및 판단 로직 설계/최적화  
-- **곽민지** – 영상처리, UI 설계  
-- **김민서** – 음성처리, UI 설계  
+|<img src="https://github.com/Bina-Lee.png" width="150" height="150"/>|<img src="https://github.com/psy1218.png" width="150" height="150"/>|<img src="https://github.com/gwakminji.png" width="150" height="150"/>|<img src="https://github.com/noidnoidnoid3.png" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|
+|이진성<br/>[@Bina-Lee](https://github.com/Bina-Lee)<br/>팀장 · PM<br/>데이터 수집부 펌웨어 / 하드웨어 설계|박소윤<br/>[@psy1218](https://github.com/psy1218)<br/>코드 통합 및<br/>판단 로직 설계 / 최적화|곽민지<br/>[@gwakminji](https://github.com/gwakminji)<br/>영상처리 / UI 설계|김민서<br/>[@noidnoidnoid3](https://github.com/noidnoidnoid3)<br/>음성처리 / UI 설계|
+<br/>
 
 ---
 
