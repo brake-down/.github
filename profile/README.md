@@ -30,6 +30,22 @@
 
 ---
 
+## 📂 레포지토리 구성
+
+- **펌웨어(Firmware)**  
+  - [OBD2_data_export](https://github.com/brake-down/OBD2_data_export)  
+  - RP2040 기반 MCU에서 실행되며, 차량 OBD-II 데이터를 요청 및 수집하는 기능 담당  
+
+- **컴퓨트 코드(Compute Code)**  
+  - [Raspberry5_brake-down](https://github.com/brake-down/Raspberry5_brake-down)  
+  - Raspberry Pi 5B 상에서 실행되며,  
+    - OBD-II/브레이크 신호 처리  
+    - 음성/영상 인식 (openSmile, OpenCV, TFLite)  
+    - Fusion 로직을 통한 상황 판단 및 경고 제공  
+  - 운전자 인터페이스(UI) 및 경고 알림 기능 포함
+  - 
+---
+
 ## ✨ 차별성
 - 기존 블랙박스·기록 장치는 **사후 기록용** → 본 시스템은 **실시간 감지 + 경고 제공**  
 - **OBD-II 표준 기반** → 범용성과 설치 용이성 확보  
