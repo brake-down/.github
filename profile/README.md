@@ -43,6 +43,14 @@
     - 음성/영상 인식 (openSmile, OpenCV, TFLite)  
     - Fusion 로직을 통한 상황 판단 및 경고 제공  
   - 운전자 인터페이스(UI) 및 경고 알림 기능 포함
+
+- **3D 리소스(3D Resource)**  
+  - [3d_resource](https://github.com/brake-down/3d_resource)  
+  - 하드웨어 부착 및 장치 제작에 활용되는 **3D 모델(STL 파일 등)**을 포함  
+
+- **UI 리소스(UI Resource)**  
+  - [UI_resource](https://github.com/brake-down/UI_resource)  
+  - 운전자 인터페이스 설계 및 시각화에 사용되는 **이미지/그래픽 리소스**를 포함 
     
 ---
 
