@@ -46,7 +46,7 @@
 
 - **3D 리소스(3D Resource)**  
   - [3d_resource](https://github.com/brake-down/3d_resource)  
-  - 하드웨어 부착 및 장치 제작에 활용되는 **3D 모델(STL 파일 등)**을 포함  
+  - 하드웨어 부착 및 장치 제작에 활용되는 **3D 모델(STL 파일 등)** 을 포함  
 
 - **UI 리소스(UI Resource)**  
   - [UI_resource](https://github.com/brake-down/UI_resource)  
