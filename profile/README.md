@@ -27,14 +27,18 @@
 - **센서**: OBD-II, 브레이크 스위치, 카메라, 마이크  
 - **분석 도구**: OpenCV (얼굴 인식), openSmile (음성 분석), TensorFlow Lite (표정 추론)  
 - **통신**: CAN (MCP2515), UART  
+![HW Diagram](../resouce/HW_diagram.png)
 
 ---
 
 ## 📂 레포지토리 구성
+![Code Flow](../resouce/code_flow.png)
 
 - **펌웨어(Firmware)**  
   - [OBD2_data_export](https://github.com/brake-down/OBD2_data_export)  
   - RP2040 기반 MCU에서 실행되며, 차량 OBD-II 데이터를 요청 및 수집하는 기능 담당  
+
+![OBD HW](../resouce/OBD_HW.png)
 
 - **컴퓨트 코드(Compute Code)**  
   - [Raspberry5_brake-down](https://github.com/brake-down/Raspberry5_brake-down)  
@@ -44,6 +48,8 @@
     - Fusion 로직을 통한 상황 판단 및 경고 제공  
   - 운전자 인터페이스(UI) 및 경고 알림 기능 포함
 
+![Main Device](../resouce/main_device.png)
+
 - **3D 리소스(3D Resource)**  
   - [3d_resource](https://github.com/brake-down/3d_resource)  
   - 하드웨어 부착 및 장치 제작에 활용되는 **3D 모델(STL 파일 등)** 을 포함  
@@ -51,7 +57,7 @@
 - **UI 리소스(UI Resource)**  
   - [UI_resource](https://github.com/brake-down/UI_resource)  
   - 운전자 인터페이스 설계 및 시각화에 사용되는 **이미지/그래픽 리소스**를 포함 
-    
+
 ---
 
 ## ✨ 차별성
