@@ -29,7 +29,7 @@
 ---
 
 ## 🛠️ 개발 환경
-- **MCU**: RP2040  
+- **MCU**: [RP2040 (Longan Labs 보드)](https://docs.longan-labs.cc/1030003/)  
 - **컴퓨팅 보드**: Raspberry Pi 5B (8GB)  
 - **센서**: OBD-II, 브레이크 스위치, 카메라, 마이크  
 - **분석 도구**: OpenCV (얼굴 인식), openSmile (음성 분석), TensorFlow Lite (표정 추론)  
